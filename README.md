@@ -169,6 +169,6 @@ This project is developed for academic purposes. Data used belongs to their resp
 
 ## 🙏 Acknowledgments
 
-- Faculty advisers and panelists of WVSU-CICT BSIS 3B, 2026
+- Faculty advisers of WVSU-CICT BSIS 3B, 2026
 - FAO, WHO, UNICEF, and World Bank for open-access global data
 - The Streamlit and D3.js open-source communities
